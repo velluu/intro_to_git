@@ -1,0 +1,1 @@
+print(float('NaN') + '1')

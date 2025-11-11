@@ -1,0 +1,1 @@
+open('file.txt', 'r').write('hello')

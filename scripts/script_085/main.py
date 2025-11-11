@@ -1,0 +1,1 @@
+open('readonly.txt','r').write('x')
